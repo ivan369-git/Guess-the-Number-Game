@@ -3,8 +3,8 @@ This is a simple JavaScript console game where you need to guess a random number
 
 ## Change Log
 
-10.05.2023 - **Initial release**
-10.05.2023 - **Added in game instructions on how to play the game.**
+10.05.2023 - **Initial release** </br>
+10.05.2023 - **Added in game instructions on how to play the game.** </br>
 
 ## Screenshots
 
