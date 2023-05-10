@@ -1,5 +1,5 @@
 # Guess-the-Number-Game
-This is a simple console game where you need to guess a random number.
+This is a simple JavaScript console game where you need to guess a random number.
 
 ## Change Log
 
