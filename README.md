@@ -12,5 +12,5 @@ This is a simple JavaScript console game where you need to guess a random number
 ![Screenshot 2](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/screenshots/GuessTheNumber2.jpg)
 
 ## Live Demo
-[I'm an inline-style link](https://www.google.com)
+https://replit.com/@ivan3691/Guess-the-Number-Game?v=1
 [![Live Demo](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/Guess-the-Number-cover.jpg)](https://replit.com/@ivan3691/Guess-the-Number-Game?v=1)
