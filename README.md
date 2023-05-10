@@ -10,6 +10,10 @@ This is a simple JavaScript console game where you need to guess a random number
 
 ## Screenshots
 
+![Screenshot 4](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/screenshots/GuessTheNumber4.jpg)
+
+![Screenshot 3](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/screenshots/GuessTheNumber3.jpg)
+
 ![Screenshot 1](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/screenshots/GuessTheNumber1.jpg)
 
 ![Screenshot 2](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/screenshots/GuessTheNumber2.jpg)
