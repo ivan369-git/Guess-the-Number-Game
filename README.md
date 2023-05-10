@@ -5,7 +5,7 @@ This is a simple JavaScript console game where you need to guess a random number
 
 10.05.2023 - **Initial release** </br>
 10.05.2023 - **Added in game instructions on how to play the game.** </br>
-10.05.2023 - **Added functionality where there is an option to start the game. It does not start automatically.**
+10.05.2023 - **Added functionality where there is an option to start the game. It does not start automatically.** </br>
 10.05.2023 - **Added functionality where after you win the game, it prompts you if you want to play again. The implementation is done with different responses and given options depending on the player's input.** </br>
 
 ## Screenshots
