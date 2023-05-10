@@ -5,6 +5,7 @@ function guessTheNumberGame() {
   });
   let computerGuess = Math.floor(Math.random() * 100);
   let guess;
+  console.log("Instructions:\nThe program will randomly choose a number between 1 and 100.\nYou will need to guess that number by writing it below the prompt.\nThe game has started...\nGood luck!");
   let recursiveAsyncReadLine = function () {
     readline.question(`Guess the number (0-100): `, (number) => {
       guess = Number(number);
@@ -13,10 +14,10 @@ function guessTheNumberGame() {
           console.log(`Thats right! The correct number is ${guess} !`);
           return readline.close;
         } else if (guess < computerGuess) {
-          console.log(`Wrong! The correct number is higher than ${guess} !`);
+          console.log(`Wrong! The correct number is higher than ${guess} !\nPlease try again:`);
           recursiveAsyncReadLine();
         } else if (guess > computerGuess) {
-          console.log(`Wrong! The correct number is lower than ${guess} !`);
+          console.log(`Wrong! The correct number is lower than ${guess} !\nPlease try again:`);
           recursiveAsyncReadLine();
         }
       } else {
