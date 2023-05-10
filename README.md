@@ -8,3 +8,5 @@ This is a simple console game where you need to guess a random number.
 ## Screenshots
 
 ![Screenshot 1](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/screenshots/GuessTheNumber1.jpg)
+
+![Screenshot 2](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/screenshots/GuessTheNumber2.jpg)
