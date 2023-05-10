@@ -30,5 +30,30 @@ function guessTheNumberGame() {
   };
   recursiveAsyncReadLine();
 }
+function startTheGame() {
+  const beginGame = require("readline").createInterface({
+    input: process.stdin,
+    output: process.stdout,
+  });
+  let option;
+  let isStarted = false;
+  let recursiveStartQuestion = function () {
+    beginGame.question(`Please write "start" to begin the game: `, (answer) => {
+      option = (answer);
+      if (option === "start"){
+        isStarted = true;
+        beginGame.close();
+        guessTheNumberGame() 
+      } else {
+        console.log(`You wrote ${option}. You need to just write "start" without the quotes to begin the game.`);
+        recursiveStartQuestion()
+      }
+    });
+  };
+  recursiveStartQuestion()
+  if (!isStarted){
+    return;
+  }
+}
+startTheGame()
 
-guessTheNumberGame();
