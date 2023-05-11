@@ -24,4 +24,6 @@ https://replit.com/@ivan3691/Guess-the-Number-Game?v=1 </br>
 [![Live Demo](https://raw.githubusercontent.com/ivan369-git/Guess-the-Number-Game/main/Guess-the-Number-cover.jpg)](https://replit.com/@ivan3691/Guess-the-Number-Game?v=1)
 
 ## Technologies
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a></p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="(https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="NodeJS" width="40" height="40"/> </a>
+</a></p>
