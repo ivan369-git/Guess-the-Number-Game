@@ -28,7 +28,7 @@ function guessTheNumberGame() {
               }else if (startAnswer === "n") {
                 console.log("Thank you for playing!");
               } else {
-                console.log(`You wrote ${startAnswer}. You need to just type "y" ot "n" without the quotes to start a new game.`);
+                console.log(`You wrote ${startAnswer}. You need to just type "y" or "n" without the quotes to start a new game.`);
                 startGame.close();
                 startNewGame();
               }
