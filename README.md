@@ -27,3 +27,10 @@ https://replit.com/@ivan3691/Guess-the-Number-Game?v=1 </br>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="NodeJS" width="40" height="40"/> </a>
 </a></p>
+
+## How to use
+**1.** Download the file  **guessTheNumberGame.js** from this repository.
+**2.** Download and install Visual Studio Code. Link: https://code.visualstudio.com/download
+**3** Download and install Node JS: Link: https://nodejs.org/en
+**4** Open Visual Studio Code, open new terminal window and type the following command: node "here you type the exact path to the already downloaded file **guessTheNumberGame.js**, including the filename itself with its extension." Example: node E:/guessTheNumberGame.js
+**5** Enjoy!
