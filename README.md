@@ -29,8 +29,8 @@ https://replit.com/@ivan3691/Guess-the-Number-Game?v=1 </br>
 </a></p>
 
 ## How to use
-**1.** Download the file  **guessTheNumberGame.js** from this repository. <\br>
-**2.** Download and install Visual Studio Code. Link: https://code.visualstudio.com/download <\br>
-**3** Download and install Node JS: Link: https://nodejs.org/en <\br>
-**4** Open Visual Studio Code, open new terminal window and type the following command: node "here you type the exact path to the already downloaded file **guessTheNumberGame.js**, including the filename itself with its extension." Example: node E:/guessTheNumberGame.js <\br>
-**5** Enjoy! <\br>
+**1.** Download the file  **guessTheNumberGame.js** from this repository. </br>
+**2.** Download and install Visual Studio Code. Link: https://code.visualstudio.com/download </br>
+**3** Download and install Node JS: Link: https://nodejs.org/en </br>
+**4** Open Visual Studio Code, open new terminal window and type the following command: node "here you type the exact path to the already downloaded file **guessTheNumberGame.js**, including the filename itself with its extension." Example: node E:/guessTheNumberGame.js </br>
+**5** Enjoy! </br>
